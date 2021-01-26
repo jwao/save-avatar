@@ -1,0 +1,4 @@
+<meta>
+	<info author="jwao" type="script" name="save" />
+	<script src="s_save.lua" type="server" />
+</meta>
